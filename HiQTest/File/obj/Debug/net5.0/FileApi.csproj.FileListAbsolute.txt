@@ -1,0 +1,5 @@
+C:\Users\katri\source\repos\HiQTest\File\obj\Debug\net5.0\FileApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katri\source\repos\HiQTest\File\obj\Debug\net5.0\FileApi.AssemblyInfoInputs.cache
+C:\Users\katri\source\repos\HiQTest\File\obj\Debug\net5.0\FileApi.AssemblyInfo.cs
+C:\Users\katri\source\repos\HiQTest\File\obj\Debug\net5.0\FileApi.csproj.CoreCompileInputs.cache
+C:\Users\katri\source\repos\HiQTest\File\obj\Debug\net5.0\FileApi.MvcApplicationPartsAssemblyInfo.cache

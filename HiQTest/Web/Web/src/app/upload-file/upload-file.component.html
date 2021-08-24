@@ -1,0 +1,11 @@
+
+<mat-card class="wrapper">
+    <h2>Upload file</h2>
+    <mat-card  class="file-upload-card">      
+      <input type="file" name="photo" ng2FileSelect [uploader]="uploader" />
+      <button type="button" 
+              mat-raised-button color="primary" 
+              (click)="uploader.uploadAll()" 
+              [disabled]="!uploader.getNotUploadedItems().length">Upload image</button>
+    </mat-card>
+  </mat-card>
